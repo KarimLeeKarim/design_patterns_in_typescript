@@ -15,3 +15,8 @@ npm install -g typescript
 ```bash
 npm install faker
 ```
+
+And here we goo with magic code
+```bash
+npm run start
+```
