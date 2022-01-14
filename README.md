@@ -1,5 +1,7 @@
 # Design patterns in Typescript
 
+*Brief info: In this small project used google maps with markers which show generated data with coordinates and name of locations, main purpose of this project is that to show how use design patterns.*
+
 1. In order to run project you need firstly install in you computer [ParcelJS](https://parceljs.org/):<br>
 it is web application bundler for automatically transforming your code for your target environments.<br>
 ```bash
