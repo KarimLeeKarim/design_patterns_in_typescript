@@ -18,7 +18,7 @@ npm install -g typescript
 npm install faker
 ```
 
-And here we goo with magic code
+Before running project open terminal enter indicated below code and wait till builded your app, then go browser write in URL locahost:1234, here we goo
 ```bash
-npm run start
+parcel 'yourhtml.html'
 ```
