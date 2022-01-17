@@ -1,4 +1,4 @@
-# Design patterns in Typescript with GoogleMap
+# Design patterns in Typescript with GoogleMap example
 
 *Brief info: In this small project used google maps with markers which show us generated data with coordinates and name of locations, main purpose of this project is that to show how working design patterns.*
 
